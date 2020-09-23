@@ -1,0 +1,10 @@
+"Elements",10000
+"Length","30 ± 0"
+"Benchmark","TimeTaken (ms)"
+"Tri-Quick Sort",15.9556088832519
+"Tri-Quick Sort NR",14.8244595332647
+"American Flag",10.3283573750295
+"Two Array",10.299582768201
+"strSwapStable",35.77823997184
+"Ulli's Quickie",19.3538061401659
+
